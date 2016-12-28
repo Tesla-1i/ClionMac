@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 
 void fun(int *w, int p, int n){
@@ -21,4 +22,5 @@ int main(){
     }
     printf("\n");
     return 0;
-}
+}*/
+
