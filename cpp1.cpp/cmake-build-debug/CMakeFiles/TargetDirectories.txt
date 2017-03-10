@@ -1,0 +1,3 @@
+/Users/OurEDA/Downloads/ubuntu/ClionMac/cpp1.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/OurEDA/Downloads/ubuntu/ClionMac/cpp1.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/OurEDA/Downloads/ubuntu/ClionMac/cpp1.cpp/cmake-build-debug/CMakeFiles/cpp1_cpp.dir

@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/OurEDA/Downloads/ubuntu/ClionMac/A21/main.cpp
-profile.h
--
-stdio.h
+/Users/OurEDA/Downloads/ubuntu/ClionMac/cpp1.cpp/main.cpp
+iostream
 -
 

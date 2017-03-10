@@ -24,7 +24,7 @@ int main(){
     }
     printf("\n");
     return 0;
-}*/
+}
 
 
 const int model = 90;
@@ -53,8 +53,15 @@ void f1(char *p)
     const int c = 2;
     const int *p1 = &c;
     //int *p3 = &c;
-    
+
 }
+*/
+
+
+
+
+
+
 
 
 
